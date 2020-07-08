@@ -20,9 +20,8 @@ page_sections:
     button_text: Contacte-nos
 - template: hero-banner-w-image
   block: hero-2
-  headline: Damos uma imagem aos seus <strong>websites</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Damos vida às suas <strong>ideias.</strong>
+  content: Websites, CMS, SEO e outros serviços à medida das suas necessidades.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
