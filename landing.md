@@ -1,12 +1,11 @@
 ---
 layout: blocks
-title: ''
-date: 
+title: hey
+date: 2020-07-08 23:00:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: simple-header
+  block: header-3
   logo: ''
-  navigation: []
 published: false
 
 ---
