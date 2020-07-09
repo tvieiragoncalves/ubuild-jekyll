@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: "<strong>asdasdasdasd</strong>"
 block: hero-2
 background_image: "/uploads/2018/06/21/hero-2-bg.png"
 image:
