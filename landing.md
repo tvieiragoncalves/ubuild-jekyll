@@ -14,7 +14,7 @@ page_sections:
   cta:
     button_text: Clica aqui
     url: tvieiragoncalves.github.io/
-    enabled: false
+    enabled: true
   image:
     image: ''
     alt_text: ''
