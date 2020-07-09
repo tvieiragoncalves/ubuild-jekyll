@@ -3,9 +3,15 @@ layout: blocks
 title: landing
 date: 2020-07-07 23:00:00 +0000
 page_sections:
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+- template: navigation-header-w-button
+  block: header-2
+  navigation:
+  - link_text: Home
+    link: "/"
+  logo: ''
+  cta:
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/product-shot-1.png"
