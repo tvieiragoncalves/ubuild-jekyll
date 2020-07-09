@@ -10,12 +10,12 @@ page_sections:
   block: footer-1
   content: ''
 block: hero-2
-background_image: ''
+background_image: "/uploads/2018/06/21/hero-2-bg.png"
 image:
   image: ''
   alt_text: ''
-headline: ''
-content: ''
+headline: 'as da <strong>dasdasd</strong> avxc '
+content: dasdasdasdasd
 cta:
   enabled: false
   url: ''
