@@ -6,5 +6,8 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: ''
+- template: simple-footer
+  block: footer-1
+  content: ''
 
 ---
