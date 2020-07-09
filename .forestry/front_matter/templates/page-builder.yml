@@ -32,5 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- hey.md
 - index.md
+- um.md
