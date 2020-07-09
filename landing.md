@@ -5,7 +5,7 @@ date: 2020-07-07 23:00:00 +0000
 page_sections:
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: simple-footer
   block: footer-1
   content: ''
