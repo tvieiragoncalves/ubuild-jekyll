@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: um
+title: landing
 date: 2020-07-07 23:00:00 +0000
 page_sections:
 - template: simple-header
